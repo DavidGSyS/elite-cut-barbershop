@@ -4,7 +4,7 @@ Landing page moderna y responsive para una barbería premium.
 
 ## 🚀 Demo
 
-🔗 https://TU-LINK-VERCEL.vercel.app
+🔗 https://elite-cut-barbershop.vercel.app
 
 ---
 
